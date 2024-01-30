@@ -1,0 +1,51 @@
+html{
+    background: rgb(199, 65, 65);
+    
+}
+#d1{
+    margin-top: 25%;
+    text-align: justify; 
+    margin-left :25%
+}
+#foot{
+    
+    margin-left:77% ;
+}
+
+#div1{
+    margin-left:25%;
+    margin-right: 25%;
+    margin-top:50px;
+    margin-bottom: 0%;
+    text-align: justify-all;
+    color:rgb(35, 51, 6); 
+    font-family: 'Libre Baskerville', serif;
+}
+h1{
+    
+    text-transform: uppercase;
+    font-size: 20px;
+    border:5px solid rgb(64, 71, 52); 
+    background-color:white;
+    color: rgb(64, 71, 52);
+}
+p{
+    font-size: 15px;
+    text-transform: capitalize;
+    font-weight: bolder;
+}
+img {
+    
+    width:50%; 
+    border:5px solid rgb(64, 71, 52); 
+}
+
+.poster{
+    margin-top:0px;
+    margin-left:25% ;
+    width:50%;
+    color:rgb(35, 51, 6); 
+    text-align:center;
+    font-family: 'Libre Baskerville', serif;
+    
+}
